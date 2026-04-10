@@ -1,0 +1,25 @@
+{
+  "cosmetics": [
+    {
+      "id": "egg_hat",
+      "name": "Fried Egg",
+      "description": "CAUTION: HOT... a egging (haha get it) good look for any sphere.",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/egg.png",
+      "type": "hat"
+    },
+    {
+      "id": "cheese_hat",
+      "name": "The Big Cheese",
+      "description": "A sharp look for the most cheesy players.",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/cheese.png",
+      "type": "hat"
+    },
+    {
+      "id": "tophat_hat",
+      "name": "Fancy Tophat",
+      "description": "A exotic hat for a more civilized man.",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/Tophat.png",
+      "type": "hat"
+    }
+  ]
+}
