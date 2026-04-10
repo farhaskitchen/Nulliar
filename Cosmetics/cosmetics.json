@@ -20,6 +20,14 @@
       "description": "A exotic hat for a more civilized man.",
       "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/Tophat.png",
       "type": "hat"
+    },
+    {
+      "id": "note_acc",
+      "name": "Sticky Note",
+      "description": "Leave a 3-letter memo on your face.",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/accessories/note.png",
+      "type": "accessory",
+      "canText": true
     }
   ]
 }
