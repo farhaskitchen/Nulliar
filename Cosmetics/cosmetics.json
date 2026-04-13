@@ -5,21 +5,48 @@
       "name": "Fried Egg",
       "description": "CAUTION: HOT... a egging (haha get it) good look for any sphere.",
       "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/egg.png",
-      "type": "hat"
+      "type": "hat",
+      "private": false
     },
     {
       "id": "cheese_hat",
       "name": "The Big Cheese",
       "description": "A sharp look for the most cheesy players.",
       "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/cheese.png",
-      "type": "hat"
+      "type": "hat",
+      "private": false
     },
     {
       "id": "tophat_hat",
       "name": "Fancy Tophat",
-      "description": "A exotic hat for a more civilized man.",
+      "description": "slightly too exotic lmao",
       "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/Tophat.png",
-      "type": "hat"
+      "type": "hat",
+      "private": false
+    },
+    {
+      "id": "partyhat_hat",
+      "name": "Party Hat",
+      "description": "partying is haram but alright bro 😭",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/partyhat.png",
+      "type": "hat",
+      "private": false
+    },
+    {
+      "id": "halo_hat",
+      "name": "Halo",
+      "description": "ps: you totally get innocent 100% time with it",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/halo.png",
+      "type": "hat",
+      "private": false
+    },
+    {
+      "id": "crown_hat",
+      "name": "Crown",
+      "description": "you are not tuff with a crown btw 💔",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/crown.png",
+      "type": "hat",
+      "private": false
     },
     {
       "id": "note_acc",
@@ -27,7 +54,24 @@
       "description": "Leave a 3-letter memo on your face.",
       "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/accessories/note.png",
       "type": "accessory",
-      "canText": true
+      "canText": true,
+      "private": false
+    },
+    {
+      "id": "bowtie_acc",
+      "name": "Bow tie",
+      "description": "hi vort",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/accessories/hkbowtie.png",
+      "type": "accessory",
+      "private": true
+    },
+    {
+      "id": "leaf_hat",
+      "name": "Leaf",
+      "description": "mom why is jimmy growing a plant on his head again",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/leaf.png",
+      "type": "hat",
+      "private": false
     }
   ]
 }
