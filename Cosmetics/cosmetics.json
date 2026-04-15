@@ -72,6 +72,30 @@
       "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/leaf.png",
       "type": "hat",
       "private": false
+    },
+    {
+      "id": "tiedye_hair",
+      "name": "Tie-Dye Hair",
+      "description": "i dont think you tie dye hair, bob..",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/tiedyehair.png",
+      "type": "hat",
+      "private": false
+    },
+    {
+      "id": "sunglasses",
+      "name": "Sunglasses",
+      "description": "Too cool for school.",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/accessories/sunglasses.png",
+      "type": "accessory",
+      "private": false
+    },
+    {
+      "id": "clown_nose",
+      "name": "Clown Nose",
+      "description": "Hanks worst nightmare",
+      "path": "https://raw.githubusercontent.com/farhaskitchen/Nulliar/main/Cosmetics/accessories/clownnose.png",
+      "type": "accessory",
+      "private": false
     }
   ]
 }
